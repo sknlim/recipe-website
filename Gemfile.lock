@@ -185,6 +185,7 @@ PLATFORMS
 DEPENDENCIES
   bootstrap-sass (~> 3.3.3)
   byebug
+  cocaine (~> 0.5.5)
   cocoon (~> 1.2.6)
   coffee-rails (~> 4.1.0)
   devise (~> 3.4.1)
